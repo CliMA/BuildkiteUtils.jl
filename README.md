@@ -5,3 +5,5 @@
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://juliaci.github.io/BuildkiteUtils.jl/dev)
 
 This is a collection of utility functions when running Julia jobs on [Buildkite](https://buildkite.com).
+
+If you're interested in *analyzing* the logs from Julia's buildkite CI, please see the [bughunt](https://github.com/JuliaCI/julia-buildkite/tree/main/debugging/bughunt) utility instead.
